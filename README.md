@@ -1,0 +1,1 @@
+A fun project using html/css from the foundation course of The Odin Project.
